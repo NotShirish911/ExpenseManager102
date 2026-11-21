@@ -9,3 +9,4 @@ expense_id,date,category,description,amount
 8,2026-11-01,Rent,November rent share,450.00
 9,2026-11-05,Food,Groceries,92.15
 10,2026-11-12,Health,Pharmacy,23.30
+11,2026-11-21,Food,lunch,30.00
