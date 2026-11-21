@@ -1,0 +1,11 @@
+expense_id,date,category,description,amount
+1,2026-09-03,Food,Weekly groceries,86.40
+2,2026-09-10,Transport,Opal card top-up,40.00
+3,2026-09-18,Entertainment,Movie tickets,32.50
+4,2026-10-02,Rent,October rent share,450.00
+5,2026-10-07,Food,Lunch with friends,28.75
+6,2026-10-15,Study,Python textbook,64.99
+7,2026-10-21,Transport,Train to campus,18.60
+8,2026-11-01,Rent,November rent share,450.00
+9,2026-11-05,Food,Groceries,92.15
+10,2026-11-12,Health,Pharmacy,23.30
