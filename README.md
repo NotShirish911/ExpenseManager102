@@ -6,10 +6,12 @@ A modular, menu-driven Python console application for recording and analysing pe
 - Python 3.8 or newer (standard library only - no installs needed)
 
 ## How to run
-```
 
-python main.py        (use `python3 main.py` on macOS)
-```
+Run the following command from the project folder:
+
+```bash
+python3 main.py
+
 Data is loaded from `data/expenses.csv` at start-up and saved when you choose **0. Exit**.s
 If the file is missing, it is created automatically.
 
@@ -29,7 +31,7 @@ python -m unittest discover -s tests -v
 | `validation.py` | Re-prompting input validation (FR11) |
 | `display.py` | Table and summary formatting |
 | `tests/test_expenses.py` | 26 automated tests |
-| `data/expenses.csv` | Sample data (10 records) |
+| `data/expenses.csv` | Sample data and recorded expenses (11 records) |
 
 ## Menu
 1 Add - 2 View - 3 Search (category / description / date) - 4 Update - 5 Delete (Y/N confirm) -
