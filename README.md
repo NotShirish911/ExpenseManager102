@@ -35,5 +35,4 @@ python -m unittest discover -s tests -v
 1 Add - 2 View - 3 Search (category / description / date) - 4 Update - 5 Delete (Y/N confirm) -
 6 Filter by category - 7 Filter by month - 8 Monthly total - 9 Summary report - 0 Exit
 
-## Acknowledgement of assistance
-This project was developed with assistance from an AI tool (Claude, by Anthropic). See REPORT.md.
+
