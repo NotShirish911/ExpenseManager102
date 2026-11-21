@@ -7,10 +7,10 @@ A modular, menu-driven Python console application for recording and analysing pe
 
 ## How to run
 ```
-cd expense_manager
-python main.py        (use `python3 main.py` on macOS/Linux)
+
+python main.py        (use `python3 main.py` on macOS)
 ```
-Data is loaded from `data/expenses.csv` at start-up and saved when you choose **0. Exit**.
+Data is loaded from `data/expenses.csv` at start-up and saved when you choose **0. Exit**.s
 If the file is missing, it is created automatically.
 
 ## How to run the tests
