@@ -1,5 +1,5 @@
 # ICT102 Assessment 3 - Expense Manager Report
-**Student:** [Your name] **Student ID:** [SMxxxxxxxx]
+**Student:** [Shirish Shrestha] **Student ID:** [SM20253812]
 
 ## 1. Program overview and design choices
 The Expense Manager is a menu-driven console program (Topic C). I split it into modules with one responsibility each, so logic is separate from input/output:
